@@ -19,7 +19,7 @@ Mystery letters are used in films and books to send secret messages.
 
 ## Activity Checklist { .check}
 
-+ Think of a mystery message, 12 words is about the right length. If you can't think of a message you can use the example: 'Your next clue is in the safe. The code is 65536.'
++ Think of a mystery message; 12 words is about the right length. If you can't think of a message you can use the example: 'Your next clue is in the safe. The code is 65536.'
 
 + Either make a note of your message or remember it. 
 
@@ -130,7 +130,7 @@ Let's create a style that looks like it has been cut from a Comic. <a href="http
 
 ![screenshot](letter-comic1.png)
 
-Don't worry if you get a warning saying that 'The Rule is empty', you'll fix that next. 
+Don't worry if you get a warning saying that 'The Rule is empty'; you'll fix that next.
 
 + Now add some CSS to the comic CSS class. You can use different colours if you like. There's a list of loads of colours at <a href="http://jumpto.cc/web-colours" target="_blank">jumpto.cc/web-colours</a>.
 
@@ -140,15 +140,20 @@ Don't worry if you get a warning saying that 'The Rule is empty', you'll fix tha
 
 ![screenshot](letter-comic-output.png)
 
-+ Now you can add a fun font. Open a new browser tab or window. Go to <a href="http://jumpto.cc/web-fonts" target="_blank">jumpto.cc/web-fonts</a> and search for __'bangers'__:
++ Now you can add a fun font. Open a new browser tab or window. Go to <a href="http://jumpto.cc/web-fonts" target="_blank">jumpto.cc/web-fonts</a>, click on the search icon, and search for __'bangers'__:
 
 ![screenshot](letter-fonts1.png)
 
-+ Click on the Quick-use button:
++ Click on the Bangers font Select button:
 
 ![screenshot](letter-fonts2.png)
 
-+ A new page will load. Scroll down until you see:
++ A new header will appear at the bottom of the page:
+
+![screenshot](letter-fonts3.png)
+
++ Click on the box header to bring up information
+about how to use your fonts:
 
 ![screenshot](letter-fonts-link.png)
 
